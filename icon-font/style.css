@@ -1,0 +1,320 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?1mu77m');
+  src:  url('fonts/icomoon.eot?1mu77m#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?1mu77m') format('truetype'),
+    url('fonts/icomoon.woff?1mu77m') format('woff'),
+    url('fonts/icomoon.svg?1mu77m#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-account_number:before {
+  content: "\e900";
+}
+.icon-add-new:before {
+  content: "\e901";
+}
+.icon-APP_download:before {
+  content: "\e902";
+}
+.icon-attachment_description:before {
+  content: "\e903";
+}
+.icon-attention:before {
+  content: "\e904";
+}
+.icon-back:before {
+  content: "\e905";
+}
+.icon-box-search:before {
+  content: "\e906";
+}
+.icon-cancel_collection:before {
+  content: "\e907";
+}
+.icon-change_password:before {
+  content: "\e908";
+}
+.icon-choose:before {
+  content: "\e909";
+}
+.icon-class_report:before {
+  content: "\e90a";
+}
+.icon-close:before {
+  content: "\e90b";
+}
+.icon-collected:before {
+  content: "\e90c";
+}
+.icon-collection-btn:before {
+  content: "\e90d";
+}
+.icon-collection:before {
+  content: "\e90e";
+}
+.icon-common_problems:before {
+  content: "\e90f";
+}
+.icon-complete:before {
+  content: "\e910";
+}
+.icon-considerations:before {
+  content: "\e911";
+}
+.icon-corner-audio:before {
+  content: "\e912";
+}
+.icon-corner-picture:before {
+  content: "\e913";
+}
+.icon-corner-resources:before {
+  content: "\e914";
+}
+.icon-corner-video:before {
+  content: "\e915";
+}
+.icon-course_pause:before {
+  content: "\e916";
+}
+.icon-course_play:before {
+  content: "\e917";
+}
+.icon-course_quiet:before {
+  content: "\e918";
+}
+.icon-course_volume:before {
+  content: "\e919";
+}
+.icon-customer_hotline:before {
+  content: "\e91a";
+}
+.icon-delete:before {
+  content: "\e91b";
+}
+.icon-details-collection:before {
+  content: "\e91c";
+}
+.icon-details-fabulous:before {
+  content: "\e91d";
+}
+.icon-details-pageviews:before {
+  content: "\e91e";
+}
+.icon-details-time:before {
+  content: "\e91f";
+}
+.icon-details:before {
+  content: "\e920";
+}
+.icon-district_analysis:before {
+  content: "\e921";
+}
+.icon-download-resources:before {
+  content: "\e922";
+}
+.icon-download:before {
+  content: "\e923";
+}
+.icon-drop_down:before {
+  content: "\e924";
+}
+.icon-drop-down:before {
+  content: "\e925";
+}
+.icon-evaluation_description:before {
+  content: "\e926";
+}
+.icon-evaluation_management:before {
+  content: "\e927";
+}
+.icon-evaluation_preparation:before {
+  content: "\e928";
+}
+.icon-evaluation:before {
+  content: "\e929";
+}
+.icon-evalution_prepared:before {
+  content: "\e92a";
+}
+.icon-examination_discipline:before {
+  content: "\e92b";
+}
+.icon-explain:before {
+  content: "\e92c";
+}
+.icon-fabulous-btn:before {
+  content: "\e92d";
+}
+.icon-form-delete:before {
+  content: "\e92e";
+}
+.icon-form-move-backward:before {
+  content: "\e92f";
+}
+.icon-form-move-forward:before {
+  content: "\e930";
+}
+.icon-frame-close:before {
+  content: "\e931";
+}
+.icon-fullscreen:before {
+  content: "\e932";
+}
+.icon-general_situation:before {
+  content: "\e933";
+}
+.icon-help_center:before {
+  content: "\e934";
+}
+.icon-last_month:before {
+  content: "\e935";
+}
+.icon-last_year:before {
+  content: "\e936";
+}
+.icon-market_analysis:before {
+  content: "\e937";
+}
+.icon-mobile_number:before {
+  content: "\e938";
+}
+.icon-more:before {
+  content: "\e939";
+}
+.icon-my_collection:before {
+  content: "\e93a";
+}
+.icon-my_report:before {
+  content: "\e93b";
+}
+.icon-next_month:before {
+  content: "\e93c";
+}
+.icon-next_page:before {
+  content: "\e93d";
+}
+.icon-next_year:before {
+  content: "\e93e";
+}
+.icon-notes:before {
+  content: "\e93f";
+}
+.icon-open:before {
+  content: "\e940";
+}
+.icon-operation_demonstration:before {
+  content: "\e941";
+}
+.icon-paid_attention:before {
+  content: "\e942";
+}
+.icon-personal_information:before {
+  content: "\e943";
+}
+.icon-play:before {
+  content: "\e944";
+}
+.icon-player-full-screen:before {
+  content: "\e945";
+}
+.icon-player-play:before {
+  content: "\e946";
+}
+.icon-player-small-screen:before {
+  content: "\e947";
+}
+.icon-player-volume:before {
+  content: "\e948";
+}
+.icon-previous_page:before {
+  content: "\e949";
+}
+.icon-principal:before {
+  content: "\e94a";
+}
+.icon-process-approved:before {
+  content: "\e94b";
+}
+.icon-process-uditing:before {
+  content: "\e94c";
+}
+.icon-publish-btn:before {
+  content: "\e94d";
+}
+.icon-publish-left:before {
+  content: "\e94e";
+}
+.icon-quality_control:before {
+  content: "\e94f";
+}
+.icon-report_management:before {
+  content: "\e950";
+}
+.icon-retract:before {
+  content: "\e951";
+}
+.icon-review-left:before {
+  content: "\e952";
+}
+.icon-role:before {
+  content: "\e953";
+}
+.icon-school_analysis:before {
+  content: "\e954";
+}
+.icon-search:before {
+  content: "\e955";
+}
+.icon-service_Online:before {
+  content: "\e956";
+}
+.icon-student_report:before {
+  content: "\e957";
+}
+.icon-student:before {
+  content: "\e958";
+}
+.icon-teacher_report:before {
+  content: "\e959";
+}
+.icon-time_arrangement:before {
+  content: "\e95a";
+}
+.icon-time:before {
+  content: "\e95b";
+}
+.icon-title-more:before {
+  content: "\e95c";
+}
+.icon-top:before {
+  content: "\e95d";
+}
+.icon-upload:before {
+  content: "\e95e";
+}
+.icon-user_management:before {
+  content: "\e95f";
+}
+.icon-view-help:before {
+  content: "\e960";
+}
+.icon-voice:before {
+  content: "\e961";
+}
